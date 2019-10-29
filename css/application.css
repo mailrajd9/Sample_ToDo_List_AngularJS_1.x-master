@@ -1,0 +1,18 @@
+#product-table td, #product-table th {
+	text-align: center;
+}
+.select-true {
+	text-decoration: line-through;
+	color: red;
+}
+.page-header {
+    padding-bottom: 50px;
+}
+
+.search-text {
+	float: right;
+}
+
+.search-text span {
+	margin-right: 5px;
+}
